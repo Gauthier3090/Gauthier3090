@@ -1,4 +1,4 @@
-<h3> :men: &nbsp;About Me </h3>
+<h3> &nbsp;About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
 - 🔭 I’m currently working on: an NLP sentiment analysis project
