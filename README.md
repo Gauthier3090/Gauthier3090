@@ -1,16 +1,11 @@
-### Hi there 👋
+<h3> :men: &nbsp;About Me </h3>
 
-<!--
-**Gauthier3090/Gauthier3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She/Her/Hers 
+- 🔭 I’m currently working on: an NLP sentiment analysis project
+- :heart: My favorite language: SQL
+- 🌱 I’m currently learning: nueral nets and Mandarin
+- 👯 I’m always looking to collaborate with: scientist from any field
+- 💬 Ask me about: anything, I am happy to help
+- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
+- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
+- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
