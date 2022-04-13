@@ -6,7 +6,7 @@
 - 👯 I’m always looking to other developpers for a common web project
 - 💬 Ask me about: anything, I'm happy to help
 - 💜 Interests: travel, dachshunds, internet culture, video games, Lord of the rings
-- ⚡ Fun fact: Pineapple is a carnivore plant
+- ⚡ Fun fact: Pineapple is a carnivorous fruit
 
 ## 🌐 Browsers
 
